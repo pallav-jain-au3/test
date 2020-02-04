@@ -8,5 +8,8 @@
     "server": "json-server db.json"
   },
   "author": "Byldd Recruiting Team",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.15.1"
+  }
 }
