@@ -36,7 +36,7 @@ The interactions should not refresh the page.
 
 ## Technology requirements
 
-**Angular** and **JavaScript** are mandatory requirements. Apart from this, you can use any libraries, task runners and build processors. ES6 and TypeScript are highly encouraged.
+**Angular** and **JavaScript** are mandatory requirements. Apart from this, you can use any libraries, task runners and build processors. ES6 and TypeScript are highly encouraged. It is also important to think carefully about your design decisions. 
 
 ## Code requirements
 
